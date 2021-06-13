@@ -1,0 +1,19 @@
+.productContainer {
+    margin: 20px 0;
+    .imageContainer {
+        .productImage {
+            height: 45vh;
+            width: 45vh;
+        }
+        border-right: 1px solid slategray;
+    }
+
+    .details {
+        font-size: 18px;
+    }
+}
+.backButton {
+    position: absolute;
+    left: 5px;
+    top: 11vh;
+}
